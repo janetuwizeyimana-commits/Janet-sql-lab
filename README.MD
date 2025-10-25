@@ -19,8 +19,7 @@ This repository contains SQL scripts, sample databases, and query exercises crea
 
 ## 💻 Tools Used
 - MySQL Workbench  
-- GitHub  
-- Visual Studio Code  
+- GitHub   
 - Excel (for test data comparison)
 
 ---
