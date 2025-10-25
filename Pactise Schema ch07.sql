@@ -1,3 +1,27 @@
+/*
+------------------------------------------------------
+ File: chapter07_queries.sql
+ Author: Janet Uwizeyimana
+ Course: HH/HLST 3320 3.0 – Health Database Applications
+ Instructor: Prof. Christo El Morr
+ Description:
+   Practice SQL queries for Chapter 07 database.
+   Demonstrates SELECT, WHERE, ORDER BY, DISTINCT, and calculations.
+   Used for QA data validation and SQL fundamentals practice.
+ Date: October 2025
+------------------------------------------------------
+*/
+
+USE chapter07;
+
+
+
+
+
+
+
+
+
 -- MySQL Workbench Forward Engineering
 
 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
