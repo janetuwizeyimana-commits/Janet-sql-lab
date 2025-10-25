@@ -2,7 +2,7 @@ janet-sql-lab/README.MD
 # 🧠 Janet SQL Lab
 
 Welcome to my SQL practice and QA testing portfolio!  
-This repository contains SQL scripts, sample databases, and query exercises created while learning **Software Quality Assurance** and **Data Validation**.
+This repository contains SQL scripts, sample databases, and query exercises created while learning **Software Quality Assurance** and **Digital Health Certificate**.
 
 ---
 
