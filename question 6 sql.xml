@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">P_CODE</Data></Cell>
+			<Cell><Data ss:Type="String">P_DESCRIPT</Data></Cell>
+			<Cell><Data ss:Type="String">P_INDATE</Data></Cell>
+			<Cell><Data ss:Type="String">P_QOH</Data></Cell>
+			<Cell><Data ss:Type="String">P_MIN</Data></Cell>
+			<Cell><Data ss:Type="String">P_PRICE</Data></Cell>
+			<Cell><Data ss:Type="String">P_DISCOUNT</Data></Cell>
+			<Cell><Data ss:Type="String">V_CODE</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">54778-2T</Data></Cell>
+			<Cell><Data ss:Type="String">Rat-tail file, 1/8-in. fine</Data></Cell>
+			<Cell><Data ss:Type="String">2011-12-15 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">21344</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PVC23DRT</Data></Cell>
+			<Cell><Data ss:Type="String">PVC pipe, 3.5-in., 8-ft</Data></Cell>
+			<Cell><Data ss:Type="String">2012-02-20 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">188</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+			<Cell><Data ss:Type="Number">5.87</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SM-18277</Data></Cell>
+			<Cell><Data ss:Type="String">1.25-in. metal screw, 25</Data></Cell>
+			<Cell><Data ss:Type="String">2012-03-01 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">172</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+			<Cell><Data ss:Type="Number">6.99</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">21225</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SW-23116</Data></Cell>
+			<Cell><Data ss:Type="String">2.5-in. wd. screw, 50</Data></Cell>
+			<Cell><Data ss:Type="String">2012-02-24 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">237</Data></Cell>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+			<Cell><Data ss:Type="Number">8.45</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">21231</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">23109-HB</Data></Cell>
+			<Cell><Data ss:Type="String">Claw hammer</Data></Cell>
+			<Cell><Data ss:Type="String">2012-01-20 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">9.95</Data></Cell>
+			<Cell><Data ss:Type="Number">0.1</Data></Cell>
+			<Cell><Data ss:Type="Number">21225</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">23114-AA</Data></Cell>
+			<Cell><Data ss:Type="String">Sledge hammer, 12 lb.</Data></Cell>
+			<Cell><Data ss:Type="String">2012-01-20 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">14.4</Data></Cell>
+			<Cell><Data ss:Type="Number">0.05</Data></Cell>
+			<Cell><Data ss:Type="Number"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13-Q2/P2</Data></Cell>
+			<Cell><Data ss:Type="String">7.25-in. pwr. saw blade</Data></Cell>
+			<Cell><Data ss:Type="String">2011-12-13 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">14.99</Data></Cell>
+			<Cell><Data ss:Type="Number">0.05</Data></Cell>
+			<Cell><Data ss:Type="Number">21344</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">14-Q1/L3</Data></Cell>
+			<Cell><Data ss:Type="String">9.00-in. pwr. saw blade</Data></Cell>
+			<Cell><Data ss:Type="String">2011-12-11 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">17.49</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">21344</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2238/QPD</Data></Cell>
+			<Cell><Data ss:Type="String">B&D cordless drill, 1/2-in.</Data></Cell>
+			<Cell><Data ss:Type="String">2012-01-20 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">38.95</Data></Cell>
+			<Cell><Data ss:Type="Number">0.05</Data></Cell>
+			<Cell><Data ss:Type="Number">25595</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1546-QQ2</Data></Cell>
+			<Cell><Data ss:Type="String">Hrd. cloth, 1/4-in., 2x50</Data></Cell>
+			<Cell><Data ss:Type="String">2012-01-15 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">39.95</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">23119</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1558-QW1</Data></Cell>
+			<Cell><Data ss:Type="String">Hrd. cloth, 1/2-in., 3x50</Data></Cell>
+			<Cell><Data ss:Type="String">2012-01-15 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">43.99</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">23119</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2232/QWE</Data></Cell>
+			<Cell><Data ss:Type="String">B&D jigsaw, 8-in. blade</Data></Cell>
+			<Cell><Data ss:Type="String">2011-12-24 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">99.87</Data></Cell>
+			<Cell><Data ss:Type="Number">0.05</Data></Cell>
+			<Cell><Data ss:Type="Number">24288</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2232/QTY</Data></Cell>
+			<Cell><Data ss:Type="String">B&D jigsaw, 12-in. blade</Data></Cell>
+			<Cell><Data ss:Type="String">2011-12-30 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">109.92</Data></Cell>
+			<Cell><Data ss:Type="Number">0.05</Data></Cell>
+			<Cell><Data ss:Type="Number">24288</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">11QER/31</Data></Cell>
+			<Cell><Data ss:Type="String">Power painter, 15 psi. 3-nozzle</Data></Cell>
+			<Cell><Data ss:Type="String">2011-03-11 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">109.99</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">25595</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WR3/TT3</Data></Cell>
+			<Cell><Data ss:Type="String">Steel matting, 4'x8'x1/6", .5" mesh</Data></Cell>
+			<Cell><Data ss:Type="String">2012-01-17 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">119.95</Data></Cell>
+			<Cell><Data ss:Type="Number">0.1</Data></Cell>
+			<Cell><Data ss:Type="Number">25595</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">89-WRE-Q</Data></Cell>
+			<Cell><Data ss:Type="String">Hicut chain saw, 16 in.</Data></Cell>
+			<Cell><Data ss:Type="String">2012-02-07 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">256.99</Data></Cell>
+			<Cell><Data ss:Type="Number">0.05</Data></Cell>
+			<Cell><Data ss:Type="Number">24288</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
